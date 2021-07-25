@@ -1,1 +1,56 @@
-/* Write your CSS here! */
+/* Write your CSS here! 
+selector {
+
+}
+
+
+
+*/ 
+
+/* <style>
+div  {
+   margin: 8px;
+   padding: 70px;
+   border: 1px solid black;
+}
+</style>
+<div> */
+
+
+/* body {
+    margin: 8px;
+    background-color:  peachpuff;
+}; */
+
+menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+.center {
+    text-align:  center;
+}
+
+.caption {
+    font-size: small;
+}
+
+body {
+    margin: 8px;
+    background-color:  peachpuff;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  };
