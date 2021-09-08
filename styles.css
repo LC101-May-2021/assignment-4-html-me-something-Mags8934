@@ -1,1 +1,81 @@
-/* Write your CSS here! */
+/* Write your CSS here! 
+selector {
+
+}
+
+
+
+*/ 
+
+
+menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+#mainHeading {
+    /* color: #05bac4; */
+    color: #000000;
+    font-family: 'Cinzel', serif;
+    font-size:300%;
+}
+
+#newRoom {
+    font-size:200%;
+    margin-bottom: 20px;
+    font-family: 'Cinzel', serif;
+}
+
+#menuTitle {
+    text-align:start;
+    margin-left: 125px;
+    /* padding: 75px; */
+    font-family: 'Cinzel', serif;
+    font-size:140%;
+    font-weight:bold;
+}
+
+#menu1 {
+    text-align:start;
+    margin-left: 150px;
+    /* padding: 75px; */
+    font-family: 'Cinzel', serif;
+    font-size:120%;
+    font-weight:bold;
+}
+
+#location {
+    text-align:center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 140%;
+}
+
+#location1 {
+    text-align:center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 130%;
+}
+
+.funParagraph {
+    color: green;
+}
+
+.center {
+    text-align:  center;
+}
+
+.caption {
+    font-size: small;
+}
+
+body {
+    margin: 18px;
+    background-color: #7b658b;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  };
